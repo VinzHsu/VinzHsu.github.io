@@ -61,6 +61,10 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
+  background: url('VinzHsu.github.io/css/img/1.PNG');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 [tabindex="-1"]:focus {
